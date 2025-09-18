@@ -6,7 +6,7 @@ Spotify adblocker for Linux (macOS untested) that works by wrapping `getaddrinfo
 * This **might not** work with the Flatpak Spotify package, depending on your system's shared libraries' versions.
 * On Debian-based distributions (e.g. Ubuntu), the Debian Spotify package can be installed by following the instructions at the bottom of [this page](https://www.spotify.com/us/download/linux/). *(recommended)*
 
-## Build
+##  Build
 Prerequisites:
 * Git
 * Make
